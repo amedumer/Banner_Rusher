@@ -7,3 +7,6 @@ It just reopens login pages until you pass the legendary error page.
 
 ## How do you do it?
 It just uses Selenium. Change your webdriver as you desire. Dont forget to include webdriver folders in PATH.
+
+## Design Flaws
+I know that the program reopens a new browser each 5 tries. It is just something I couldn't fix but this version works just fine. Maybe I will fix it later.
